@@ -9,6 +9,7 @@ A repository to keep track of useful functions to save time in our day to day pr
 
 ## Contents
 
-| # | Language | Script Tags | Count |
-| :--: |:---: | :---------: | :---: |
-1 | PHP | `sorting` `assocoative-array` | 1
+| # | Title | Script Tags | Language | Open Script |
+| :-: |:--: | :---------: | :-----: | :---------: |
+1 | Sort Associative-Array by Key-Value| `sorting` `assocoative-array` | PHP | Click [here](./PHP/SortAssociativeArrayByKeyValue.php) |
+2 | Generate Random or Unique Key | `random-key` `hash-key` `unique-key` | PHP | Click [here](./PHP/GenerateRandomOrUniqueKey.php)
